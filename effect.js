@@ -138,7 +138,7 @@ $('document').ready(function(){
 		});
 	});
 
-		
+// Chỉnh chữ trên bóng bay	
 	$('#wish_message').click(function(){
 		 vw = $(window).width()/2;
 
